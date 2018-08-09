@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4500</color>
+    <color name="colorBack">#211c1b</color>
+    <color name="commentBackground">#0e0e1a</color>
+    <color name="colorPrimaryLight">#ff895d</color>
+    <color name="colorPrimaryDark">#FE571A</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="balack_transparent_more">#d4000000</color>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="position" type="id">30000</item>
+    <item name="link" type="id">30001</item>
+    <item name="flow" type="id">30002</item>
+</resources>
